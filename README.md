@@ -9,4 +9,4 @@ Utility to use travis cli without actually having to install it.
 Example of use
 -----------
 
-`docker run ebonetti/travis encrypt -r owner/repo 6byour1truly2only3key0a`
+`docker run ebonetti/travis encrypt 6byour1only2truly3secret0a -r yourgithublogin/yourrepo`
